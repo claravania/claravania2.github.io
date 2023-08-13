@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* PhD, ILCC/CDT in Data Science, University of Edinburgh, 2020
+* MSc by Research in Data Science, University of Edinburgh, 2015
+* MSc in Computer Science, Universitas Indonesia, 2011
+* BSc in Computer Science, Universitas Indonesia, 2009
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work experience
+* Post-Doctoral Associate, Oct 2019 - Feb 2021
+  * Center for Data Science, New York University
+  * Advisor: Samuel R. Bowman
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Intern, summer 2019
+  * Facebook AI Research (FAIR) Paris
+  * Project: Language emergence in multi-agent communication.
+  * Manager: Marco Baroni
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research Intern, summer 2017
+  * Amazon Alexa AI
+  * Project: Semantic parsing using sequence-to-sequence model.
+  * Manager: Markus Dreyer
+
+* Junior Lecturer, 2011-2014
+  * Faculty of Computer Science, Universitas Indonesia
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Mentoring / Collaborations
+* [Chenxi Whitehouse](https://chenxwh.github.io/), Applied Scientist Intern, Amazon, 2022
+* Martina Forster, Applied Scientist Intern, Amazon, 2021
+* [Teresa Huang](https://nhuang37.github.io/), MS student, NYU, 2020
+* Yash Deshpande, MSstudent, NYU, 2020
+* Yibo Liu, MS student, NYU, 2020
+* Ruijie Chen, MS student, NYU, 2020
+* [Andreas Grivas](https://grv.unargmaxable.ai), MSc student, University of Edinburgh, 2017
+
+
